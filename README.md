@@ -2,7 +2,7 @@
 ## Tentang Indonesia
 ### Pancasila
 
-- Ketuhanan yang maha esa
+- Ketuhanan Yang Maha Esa
 - Kemanusiaan yang adil dan beradab
 - TODO
 
@@ -21,3 +21,4 @@
 3. Add other contributors
 4. Fork the repository
 5. Take a nap
+6. Take a bath
