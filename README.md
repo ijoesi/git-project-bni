@@ -2,7 +2,7 @@
 ## Tentang Indonesia
 ### Pancasila
 
-- Ketuhanan yang maha esa
+- Ketuhanan Yang Maha Esa
 - Kemanusiaan yang adil dan beradab
 - TODO
 
